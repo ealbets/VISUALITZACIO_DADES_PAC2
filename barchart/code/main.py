@@ -86,7 +86,7 @@ def plot_bar_chart(results):
     plt.xlabel('PAÏSOS', fontweight='bold')
     plt.ylabel('VALOR', fontweight='bold')
     # títol
-    plt.title("Balanç de producció de GAS NATURAL en 20 països europeus durant l'any 2021")
+    plt.title("Balanç d'entregues interiors brutes de GAS NATURAL en 20 països europeus durant l'any 2021")
     plt.xticks(rotation=45)  # Rotación de etiquetas de países para mejor visualización
     # ajustament
     plt.tight_layout()
