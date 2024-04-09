@@ -1,6 +1,5 @@
 import csv
 import matplotlib.pyplot as plt
-from sklearn.preprocessing import MinMaxScaler
 
 # BAR CHAR EXEMPLE
 
